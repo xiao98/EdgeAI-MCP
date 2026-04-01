@@ -1,6 +1,6 @@
 
 
-<h1 align="center">🏭 Industrial MCP</h1>
+<h1 align="center">🏭 EDGEAI MCP</h1>
 
 <p align="center">
   <strong>The Open-Source Bridge Between AI and Industrial Equipment</strong>
